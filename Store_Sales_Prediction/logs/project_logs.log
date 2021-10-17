@@ -1,0 +1,80 @@
+2021-10-15 09:52:22,245 - [preprocess] - [INFO] - Checking for missing values: Item_Fat_Content                0
+Item_Identifier                 0
+Item_MRP                        0
+Item_Outlet_Sales            5681
+Item_Type                       0
+Item_Visibility                 0
+Item_Weight                  2439
+Outlet_Establishment_Year       0
+Outlet_Identifier               0
+Outlet_Location_Type            0
+Outlet_Size                  4016
+Outlet_Type                     0
+source                          0
+dtype: int64
+2021-10-15 09:52:22,261 - [preprocess] - [INFO] - Checking for missing values: Item_Fat_Content             0
+Item_Identifier              0
+Item_MRP                     0
+Item_Outlet_Sales            0
+Item_Type                    0
+Item_Visibility              0
+Item_Weight                  0
+Outlet_Establishment_Year    0
+Outlet_Identifier            0
+Outlet_Location_Type         0
+Outlet_Size                  0
+Outlet_Type                  0
+source                       0
+dtype: int64
+2021-10-15 09:52:22,261 - [__main__] - [INFO] - Null values removed
+2021-10-15 09:52:22,261 - [eda] - [INFO] - Distribution plot for Item_Outlet_Sales
+2021-10-15 09:52:22,480 - [eda] - [INFO] - Distribution plot for Item_Weight
+2021-10-15 09:52:22,714 - [eda] - [INFO] - Distribution plot for Item_Visibility
+2021-10-15 09:52:23,154 - [eda] - [INFO] - Distribution plot for Item_MRP
+2021-10-15 09:52:23,372 - [eda] - [INFO] - Bar plot for Item_Type 
+2021-10-15 09:52:23,779 - [eda] - [INFO] - Bar plot for Outlet_Size 
+2021-10-15 09:52:23,935 - [eda] - [INFO] - Bar plot for Outlet_Identifier 
+2021-10-15 09:52:24,169 - [eda] - [INFO] - Bar plot for Outlet_Establishment_Year 
+2021-10-15 09:52:24,622 - [eda] - [INFO] - Bar plot for Outlet_Type 
+2021-10-15 09:52:24,778 - [eda] - [INFO] - Bar plot for Item_Fat_Content 
+2021-10-15 09:52:24,919 - [__main__] - [INFO] - Univariate analysis done
+2021-10-15 09:52:24,919 - [eda] - [INFO] - Scatter plot for Item_Weight vs Item_Outlet_Sales
+2021-10-15 09:52:25,310 - [eda] - [INFO] - Scatter plot for Item_Visibility vs Item_Outlet_Sales
+2021-10-15 09:52:25,638 - [eda] - [INFO] - Scatter plot for Item_MRP vs Item_Outlet_Sales
+2021-10-15 09:52:26,216 - [eda] - [INFO] - Violin plot for Item_Type vs Item_Outlet_Sales
+2021-10-15 09:52:27,106 - [eda] - [INFO] - Violin plot for Outlet_Identifier vs Item_Outlet_Sales
+2021-10-15 09:52:27,450 - [eda] - [INFO] - Violin plot for Item_Fat_Content vs Item_Outlet_Sales
+2021-10-15 09:52:27,668 - [eda] - [INFO] - Violin plot for Outlet_Size vs Item_Outlet_Sales
+2021-10-15 09:52:27,937 - [eda] - [INFO] - Violin plot for Outlet_Location_Type vs Item_Outlet_Sales
+2021-10-15 09:52:28,390 - [eda] - [INFO] - Violin plot for Outlet_Type vs Item_Outlet_Sales
+2021-10-15 09:52:29,125 - [__main__] - [INFO] - Bivariate analysis done
+2021-10-15 09:52:29,125 - [eda] - [INFO] - Plotting correlation matrix
+2021-10-15 09:52:29,655 - [__main__] - [INFO] - Correlation matrix done
+2021-10-15 09:52:29,655 - [preprocess] - [INFO] - Creating a new feature Item_Type_new
+2021-10-15 10:14:22,808 - [preprocess] - [INFO] - Creating a new feature Item_Category
+2021-10-15 10:14:23,112 - [preprocess] - [INFO] - Creating a new feature Outlet_Years_Op
+2021-10-15 10:14:23,357 - [preprocess] - [INFO] - Creating a new feature price_per_unit_wt feature
+2021-10-15 10:14:25,426 - [preprocess] - [INFO] - Performing label encoding
+2021-10-15 10:14:25,457 - [preprocess] - [INFO] - Performing one hot encoding
+2021-10-15 10:14:27,150 - [__main__] - [INFO] - Feature engineering done
+2021-10-15 10:14:27,663 - [__main__] - [INFO] - Train Test split done
+2021-10-15 10:14:27,665 - [__main__] - [INFO] - Calling Linear Regression
+2021-10-15 10:14:27,668 - [model] - [INFO] - Training Linear Regression
+2021-10-15 10:14:30,913 - [__main__] - [INFO] - Performance of linear regression model: MAE = 852.8065, MSE = 1279480.3025, RMSE = 1131.1412
+2021-10-15 10:14:30,913 - [__main__] - [INFO] - Calling Ridge Regression
+2021-10-15 10:14:30,913 - [model] - [INFO] - Training Ridge Regression
+2021-10-15 10:14:30,913 - [model] - [INFO] - Performing hyperparameter tuning
+2021-10-15 10:14:34,059 - [__main__] - [INFO] - Performance of ridge regression model: MAE = 1164.9158, MSE = 2173873.2224, RMSE = 1474.4061
+2021-10-15 10:14:34,061 - [__main__] - [INFO] - Calling Lasso Regression
+2021-10-15 10:14:34,063 - [model] - [INFO] - Training Lasso Regression
+2021-10-15 10:14:34,065 - [model] - [INFO] - Performing hyperparameter tuning
+2021-10-15 10:14:41,577 - [__main__] - [INFO] - Performance of lasso regression model: MAE = 880.1522, MSE = 1368385.5710, RMSE = 1169.7801
+2021-10-15 10:14:41,577 - [__main__] - [INFO] - Calling Decision Tree Regression
+2021-10-15 10:14:41,577 - [model] - [INFO] - Training Decision Tree Regression
+2021-10-15 10:14:41,577 - [model] - [INFO] - Performing hyperparameter tuning
+2021-10-15 10:15:25,030 - [__main__] - [INFO] - Performance of decision tree regression model: MAE = 778.7665, MSE = 1206052.3566, RMSE = 1098.2042
+2021-10-15 10:15:25,030 - [__main__] - [INFO] - Calling Random Forest Regression
+2021-10-15 10:15:25,030 - [model] - [INFO] - Training Random Forest Regression
+2021-10-15 10:15:25,030 - [model] - [INFO] - Performing hyperparameter tuning
+2021-10-15 10:32:22,601 - [__main__] - [INFO] - Performance of random forest regression model: MAE = 775.8019, MSE = 1197685.3252, RMSE = 1094.3881
+2021-10-15 10:32:22,601 - [__main__] - [INFO] - Saving the best model
