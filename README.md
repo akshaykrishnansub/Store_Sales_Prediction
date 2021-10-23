@@ -7,6 +7,7 @@ Nowadays, shopping malls and Big Marts keep track of individual item sales data 
 The solution proposed here is a store sales prediction system that has been implemented to predict the sales of the various stores on the Big Mart. The system requires the Year of Establishment of the store, the price of the item, weight of the item, the percentage area of the item visibility, the location of the store, fat content, category of the item as input from the user, and the sales of the store would be predicted based on these factors that are entered as user input.
 
 # Data Description
+The dataset Consists of two files, Train.csv and Test.csv, that is the training set and test set respectively. The training set has 8523 rows and 12 features, the test set has 5681 rows and 11 features. The only difference is that, the test set does not have the target variable.
 
 # Project Tree Structure
 
