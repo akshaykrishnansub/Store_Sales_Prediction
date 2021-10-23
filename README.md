@@ -1,6 +1,7 @@
 # Store Sales Prediction
 
-# [image](https://user-images.githubusercontent.com/35571319/138538956-919478ea-aeff-4ed5-8b5b-cbdfefb31dba.png)Problem Statement
+# Problem Statement
+Nowadays, shopping malls and Big Marts keep track of individual item sales data in order to forecast future client demand and adjust inventory management. In a data warehouse, these data stores hold a significant amount of consumer information and particular item details. By mining the data store from the data warehouse, more anomalies and common patterns can be discovered.
 
 # Proposed Solution
 
