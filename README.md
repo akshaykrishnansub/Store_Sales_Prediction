@@ -21,6 +21,8 @@ The dataset Consists of two files, Train.csv and Test.csv, that is the training 
 ![image](https://user-images.githubusercontent.com/35571319/138539455-6e465776-15ed-4ff5-9137-205f3279ad05.png)
 ![image](https://user-images.githubusercontent.com/35571319/138539463-cfee9b75-dda3-43fd-9e6a-4d5e95eea0a4.png)
 ![image](https://user-images.githubusercontent.com/35571319/138539465-d847e643-24ee-474e-a119-4840badace53.png)
+![image](https://user-images.githubusercontent.com/35571319/138543998-d6e25614-f0c0-45ef-b895-3fc40f525212.png)
+
 
 •	Spyder is used as IDE
 
