@@ -1,3 +1,15 @@
 # Store Sales Prediction
 
-# Contributors 
+# Problem Statement
+
+# Proposed Solution
+
+# Data Description
+
+# Project Tree Structure
+
+# Tools Used
+
+# Web App
+
+# Contributors
