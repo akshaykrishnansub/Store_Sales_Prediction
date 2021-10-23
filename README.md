@@ -22,6 +22,12 @@ Nowadays, shopping malls and Big Marts keep track of individual item sales data 
 
 •	Spyder is used as IDE
 
+•	Pandas is used for Data Manipulation and Analysis
+
+•	Numpy is used to perform various mathematical operations
+
+•	Scikit-learn is the library using which various regression models have been built
+
 •	For visualization of the plots, Matplotlib, Seaborn are used
 
 •	Python Flask is used for backend development
