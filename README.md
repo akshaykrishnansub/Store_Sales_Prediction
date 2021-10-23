@@ -43,6 +43,10 @@ The dataset Consists of two files, Train.csv and Test.csv, that is the training 
 
 •	GitHub is used as version control system
 
+# Snippets of the project
+![image](https://user-images.githubusercontent.com/35571319/138544770-4e321c1a-c365-4f73-b9f5-817e10eb95ea.png)
+
+
 # Web App
 Our Web App Link: https://storesalepred-api.herokuapp.com/
 
