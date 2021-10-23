@@ -21,10 +21,15 @@ Nowadays, shopping malls and Big Marts keep track of individual item sales data 
 ![image](https://user-images.githubusercontent.com/35571319/138539465-d847e643-24ee-474e-a119-4840badace53.png)
 
 •	Spyder is used as IDE
+
 •	For visualization of the plots, Matplotlib, Seaborn are used
+
 •	Python Flask is used for backend development
+
 •	Front end development is done using HTML/CSS
+
 •	Heroku is used for deployment of the model
+
 •	GitHub is used as version control system
 
 # Web App
