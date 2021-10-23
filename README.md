@@ -19,3 +19,4 @@ In this web app, you just need to enter the Information that is asked for. The d
 Once the predict button is clicked, the predicted result will be displayed at the bottom.
 
 # Contributors
+1. Akshay K
