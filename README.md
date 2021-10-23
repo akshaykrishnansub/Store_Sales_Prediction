@@ -10,6 +10,8 @@ Nowadays, shopping malls and Big Marts keep track of individual item sales data 
 # Project Tree Structure
 
 # Tools Used
+![image](https://user-images.githubusercontent.com/35571319/138539395-fcb169a7-fc5d-435e-8c17-3af5c1392774.png)
+
 
 # Web App
 Our Web App Link: https://storesalepred-api.herokuapp.com/
