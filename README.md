@@ -46,6 +46,11 @@ The dataset Consists of two files, Train.csv and Test.csv, that is the training 
 # Snippets of the project
 ![image](https://user-images.githubusercontent.com/35571319/138544770-4e321c1a-c365-4f73-b9f5-817e10eb95ea.png)
 
+![image](https://user-images.githubusercontent.com/35571319/138544811-312dffdc-2025-45ba-8b3e-59dcabc296ad.png)
+
+![image](https://user-images.githubusercontent.com/35571319/138544823-7b488e74-6c99-4d74-a18e-541504ef0ebd.png)
+
+
 
 # Web App
 Our Web App Link: https://storesalepred-api.herokuapp.com/
