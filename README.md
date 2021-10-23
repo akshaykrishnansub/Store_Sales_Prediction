@@ -13,6 +13,7 @@ Nowadays, shopping malls and Big Marts keep track of individual item sales data 
 
 # Web App
 Our Web App Link: https://storesalepred-api.herokuapp.com/
+
 In this web app, you just need to enter the Information that is asked for. The drop downs provided can also be used for taking the inputs. The model will start prediction once the user has entered all the input values required.
 
 Once the predict button is clicked, the predicted result will be displayed at the bottom.
