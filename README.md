@@ -50,6 +50,7 @@ The dataset Consists of two files, Train.csv and Test.csv, that is the training 
 
 ![image](https://user-images.githubusercontent.com/35571319/138544823-7b488e74-6c99-4d74-a18e-541504ef0ebd.png)
 
+The snippets section represents the working of the store sales prediction system. Looking at these snippets, it will give a general idea about how the system works.
 
 
 # Web App
