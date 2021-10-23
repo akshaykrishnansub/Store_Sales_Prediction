@@ -27,7 +27,6 @@ Nowadays, shopping malls and Big Marts keep track of individual item sales data 
 •	Heroku is used for deployment of the model
 •	GitHub is used as version control system
 
-
 # Web App
 Our Web App Link: https://storesalepred-api.herokuapp.com/
 
